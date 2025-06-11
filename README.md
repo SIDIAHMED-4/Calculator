@@ -14,8 +14,12 @@
 ## 📌 How to Use?  
 1. Enter numbers using the on-screen buttons  
 2. Choose an arithmetic operation  
-3. View the result instantly  
-https://sidiahmed-4.github.io/Calculator/
+3. View the result instantly
+
+## 🌟 Live Demo  
+Try the application here: [https://sidiahmed-4.github.io/Calculator/]  
+
+
 ## 💡 Future Improvements  
 - Advanced functions like square root and percentage  
 - Calculation history tracking  
